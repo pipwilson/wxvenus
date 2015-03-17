@@ -1,0 +1,6 @@
+# Some rules for playing #
+
+  * no changes to core Venus
+  * all core features must be cross-platform
+  * work with remote or local Venus installations
+  * run on at least Windows XP, Vista, Gnome and OS X
